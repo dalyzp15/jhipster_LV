@@ -9,7 +9,7 @@ https://www.jhipster.tech/modules/marketplace/#/details/generator-jhipster-boots
 - Liquibase:
 https://liquibase.org
 
--JHipster:
+- JHipster:
 https://www.jhipster.tech
 https://raibledesigns.com/rd/entry/getting_hip_with_jhipster_at
 https://www.jhipster.tech/installation/
